@@ -1,4 +1,4 @@
-# Task List - CLI
+# Weather App
 
 ## About 💭
 A weather app using which user can find weather condition of different locations and request weather of the live location. This web app requests thrid party API for weather of a location, and displays the data in a clean UI. I have used Javascript's Geolocation API for accessing user's current location.
